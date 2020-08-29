@@ -169,7 +169,7 @@ if __name__ == "__main__":
     
     ####main window title and inspection
     mainWindow = tk.Tk(screenName="Camera Capture")
-    mainWindow.title("Auto Engine Inspection")
+    mainWindow.title("Borescope Oil Hole Inspection")
     width, height = 900,600
     mainWindow.geometry(f"{width}x{height}")
     mainWindow.resizable(width=True, height=True)
